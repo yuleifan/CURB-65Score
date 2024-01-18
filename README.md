@@ -7,14 +7,13 @@ Steps:
 At backend, use the FASTAPI
   1. python3 -m venv env
   2. pip install -r requirements.txt
-  3. run command below to start FASTAPI:
-       uvicorn main:app --reload
+  3. uvicorn main:app --reload 
+       
  
 AT frontend, use React
   1. npx create-react-app frontend
   2. npm install axios bootstrap
-  3. run command below to start frontend interface
-       npm start
+  3. npm start
 
 
 Frontend interface looks like:
