@@ -10,7 +10,7 @@ At backend, use the FASTAPI
   3. uvicorn main:app --reload 
        
  
-AT frontend, use React
+At frontend, use React
   1. npx create-react-app frontend
   2. npm install axios bootstrap
   3. npm start
