@@ -2,7 +2,7 @@
 
 need: Python 3.9.13, nodejs and mongoDB already installed in your machine
 
-next:
+Steps:
 
 At backend, use the FASTAPI
   1. python3 -m venv env
