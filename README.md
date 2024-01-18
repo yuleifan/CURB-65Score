@@ -1,10 +1,10 @@
 # CURB-65Score
 
-need: Python 3.9.13, nodejs and mongoDB already installed in your machine
+Required: Python 3.9.13, nodejs and mongoDB already installed in your machine
 
 Steps:
 
-At backend, use the FASTAPI
+At backend, use the FASTAPI and mongoDB database
   1. python3 -m venv env
   2. pip install -r requirements.txt
   3. uvicorn main:app --reload 
