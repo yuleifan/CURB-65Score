@@ -11,7 +11,8 @@ At backend, use the FASTAPI and mongoDB database
        
  
 At frontend, use React
-  1. npm start
+  1. npm install
+  2. npm start
 
 
 Frontend interface looks like:
