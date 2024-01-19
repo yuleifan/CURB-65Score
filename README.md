@@ -11,9 +11,7 @@ At backend, use the FASTAPI and mongoDB database
        
  
 At frontend, use React
-  1. npx create-react-app frontend
-  2. npm install axios bootstrap
-  3. npm start
+  1. npm start
 
 
 Frontend interface looks like:
